@@ -11,7 +11,8 @@
 - [Hosting & Deployment](#deployment)
 - [Icons](#icon)
 - [Image stock (Free Use)](#image)
-- [Learning](learning)
+- [Learning](#learning)
+- [Logo](#logo)
 - [Mockup Tools (WireFrames)](#wireframe)
 - [Video stock (Free Use)](#video)
 
@@ -26,6 +27,8 @@
 
 - [Awwwards](https://www.awwwards.com/)
 - [Dribbble](https://dribbble.com/)
+- [HailPixel](https://color.hailpixel.com/)
+- [StylifyMe](http://stylifyme.com/)
 
 ### Exercises<a name="exercises"></a>
 
@@ -74,6 +77,10 @@
 
 - [Mem-Dev](https://mem.dev/)
 - [The Odin Project](https://www.theodinproject.com/)
+
+### Logo
+
+- [Logaster](https://www.logaster.com/)
 
 ### Mockup & WireFrame<a name="wireframe"></a>
 
